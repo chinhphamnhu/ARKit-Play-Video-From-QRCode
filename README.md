@@ -17,7 +17,7 @@
 
 When it decodes the qrcode, it displays the video from the url of qrcode and does not overflow the video outside the scope of the object.
 
-![Example gif](https://github.com/chinhphamnhu/ARKit-Play-Video-From-QRCode/QRCodeFinal/Resources/demo.gif)
+![Example gif](https://github.com/chinhphamnhu/ARKit-Play-Video-From-QRCode/blob/master/QRCodeFinal/Resources/demo.gif)
 
 ## Demo project for:
 
