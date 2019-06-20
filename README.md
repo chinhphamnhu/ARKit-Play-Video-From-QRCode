@@ -1,4 +1,4 @@
-# ARKitNavigationDemo
+# ARKitPlayVideoFromQRCode
 [![PRs Welcome](https://img.shields.io/badge/ARKit-QRCode%20Detect-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 [![Platform](http://img.shields.io/badge/Platform-iOS-lightgrey.svg?style=flat)](https://developer.apple.com/resources/)
 [![Platform](https://img.shields.io/badge/Swift-5.0-orange.svg?style=flat)](hhttps://swift.org/blog/swift-5-0-released/)
